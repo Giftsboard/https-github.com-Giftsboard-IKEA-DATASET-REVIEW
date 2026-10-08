@@ -1,9 +1,10 @@
+[IKEA Retail Dashboard.pdf](https://github.com/user-attachments/files/33227158/IKEA.Retail.Dashboard.pdf)
 # 📊 Sales Performance Dashboard | Power BI
 
 > My very first Power BI project (2023): an exploration of where a retail business makes money, and where it quietly loses it.
 
-![Dashboard Preview](images/dashboard.png)
-<!-- Export your dashboard as a PNG and save it at images/dashboard.png -->
+![Dashboard Preview](images/IKEA.Retail.Dashboard.pdf)
+<!-- Export your dashboard as a PDF and save it at images/dashboard.pdf -->
 
 ---
 
@@ -182,11 +183,11 @@ This was my first Power BI project, and I am keeping it as it was to show my sta
 
 ## 👤 About Me
 
-**[Your Name]**
-Data Analyst | Power BI | [Add other skills, e.g. SQL, Excel, Python]
+**Ebunoluwa Olaleye**
+Data Analyst | Power BI | [Power BI, SQL, Excel, Python]
 
-- 💼 LinkedIn: [your-linkedin-url]
-- 📧 Email: [your-email]
+- 💼 LinkedIn: [www.linkedin.com/in/ebunoluolaleye]
+- 📧 Email: [sanusiebunolu@gmail.com]
 - 🌐 Portfolio: [your-portfolio-url]
 
 ---
