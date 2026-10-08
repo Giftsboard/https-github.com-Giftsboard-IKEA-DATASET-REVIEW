@@ -3,10 +3,6 @@
 
 > My very first Power BI project (2023): an exploration of where a retail business makes money, and where it quietly loses it.
 
-<!-- Export your dashboard as a PDF and save it at images/dashboard.pdf -->
-
----
-
 ## 📌 Table of Contents
 
 1. [Project Overview](#-project-overview)
