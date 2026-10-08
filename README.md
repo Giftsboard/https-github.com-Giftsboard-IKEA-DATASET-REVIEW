@@ -56,7 +56,7 @@ Leadership needed answers to questions like:
 
 | Detail | Description |
 |---|---|
-| **Source** | `[Add dataset source / link here]` |
+| **Source** | `[Kaggle]` |
 | **Time period** | 2014 to 2017 |
 | **Granularity** | Order-level sales records |
 | **Key fields used** | State, Category, Ship Date (Year / Quarter), Profit, Quantity |
