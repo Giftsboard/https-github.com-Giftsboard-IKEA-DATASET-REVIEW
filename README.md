@@ -3,7 +3,7 @@
 
 > My very first Power BI project (2023): an exploration of where a retail business makes money, and where it quietly loses it.
 
-![Dashboard Preview](images/IKEA Retail Dashboard.pdf)
+!(images/IKEA Retail Dashboard.pdf)
 <!-- Export your dashboard as a PDF and save it at images/dashboard.pdf -->
 
 ---
