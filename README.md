@@ -3,6 +3,8 @@
 
 > My very first Power BI project (2023): an exploration of where a retail business makes money, and where it quietly loses it.
 
+> <img width="1264" height="837" alt="ikea dashboard" src="https://github.com/user-attachments/assets/9a8cc463-0aac-4dbe-87b3-974d92edad33" />
+
 ## 📌 Table of Contents
 
 1. [Project Overview](#-project-overview)
