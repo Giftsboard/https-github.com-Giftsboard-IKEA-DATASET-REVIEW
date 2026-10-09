@@ -1,5 +1,5 @@
 [IKEA Retail Dashboard.pdf](https://github.com/user-attachments/files/33227158/IKEA.Retail.Dashboard.pdf)
-# 📊 Sales Performance Dashboard | Power BI
+# 📊 Retail Performance Dashboard | Power BI
 
 > My very first Power BI project (2023): an exploration of where a retail business makes money, and where it quietly loses it.
 
